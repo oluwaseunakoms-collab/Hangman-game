@@ -16,3 +16,6 @@ Guess the hidden word one letter at a time before you run out of attempts!
 ## How to Run
 `bash
 python hangman.py
+
+## Author
+Akomolafe Oluwaseun
